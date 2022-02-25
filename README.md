@@ -21,7 +21,8 @@
 - Aplicação de modelos de machine learning, testando dois modelos (Regressão linear e Random Forest)
 - Visualização gráfica das previsões dos modelos
 
+![image](https://user-images.githubusercontent.com/88164286/155796661-020b2c4a-5c8c-4241-9226-b60e9c45016f.png)
 
 - Por fim, uma verificação da importância de cada variável para as vendas
 
-
+![image](https://user-images.githubusercontent.com/88164286/155796732-45c23e0c-c3d4-4dea-9278-52e9b8af6aca.png)
