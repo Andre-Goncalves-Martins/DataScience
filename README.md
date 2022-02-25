@@ -16,6 +16,7 @@
 
 - Uma análise exploratória, na tentativa de visualizar como as informações de cada iem estão distribuídas analisando a correlação existente entre os itens da base. Podendo ser observado no seguinte gráfico de correlação:
 
+![image](https://user-images.githubusercontent.com/88164286/155796258-f913b3ba-5a4f-4ca9-9f38-bf6308e72df7.png)
 
 - Aplicação de modelos de machine learning, testando dois modelos (Regressão linear e Random Forest)
 - Visualização gráfica das previsões dos modelos
