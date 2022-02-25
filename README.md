@@ -23,6 +23,21 @@
 
 ![image](https://user-images.githubusercontent.com/88164286/155796661-020b2c4a-5c8c-4241-9226-b60e9c45016f.png)
 
-- Por fim, uma verificação da importância de cada variável para as vendas
+- Por fim, uma verificação da importância de cada variável para as vendas. Nele é possível observar que a variável de maior importância é a TV, com mais de 80% de importância.
 
 ![image](https://user-images.githubusercontent.com/88164286/155796732-45c23e0c-c3d4-4dea-9278-52e9b8af6aca.png)
+
+## Para replicar este projeto
+
+- Basta apenas fazer o download ou clonar este repositório para sua máquina e executá-lo, porém antes é importante garantir que você tenha as seguinte tecnologias no pc.
+
+### Tecnologias utilizadas
+
+<table>
+  <tr>
+    <td>Jupyter Notebook</td>
+  </tr>
+  <tr>
+    <td>Python 3</td>
+  </tr>
+</table>
