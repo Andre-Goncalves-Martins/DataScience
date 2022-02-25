@@ -29,7 +29,7 @@
 
 ## Para replicar este projeto
 
-- Basta apenas fazer o download ou clonar este repositório para sua máquina e executá-lo, porém antes é importante garantir que você tenha as seguinte tecnologias no pc.
+- Basta apenas fazer o download ou clonar este repositório para sua máquina e executá-lo, porém antes é importante garantir que você tenha as seguintes tecnologias no pc.
 
 ### Tecnologias utilizadas
 
