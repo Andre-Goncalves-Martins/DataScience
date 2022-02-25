@@ -11,3 +11,16 @@
 - Passo 5: Análise Exploratória
 - Passo 6: Modelagem + Algoritmos (Aqui que entra a Inteligência Artificial, se necessário)
 - Passo 7: Interpretação de Resultados
+
+## Neste Código então é realizado
+
+- Uma análise exploratória, na tentativa de visualizar como as informações de cada iem estão distribuídas analisando a correlação existente entre os itens da base. Podendo ser observado no seguinte gráfico de correlação:
+
+
+- Aplicação de modelos de machine learning, testando dois modelos (Regressão linear e Random Forest)
+- Visualização gráfica das previsões dos modelos
+
+
+- Por fim, uma verificação da importância de cada variável para as vendas
+
+
